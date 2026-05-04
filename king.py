@@ -64,7 +64,7 @@ class FreezeScreen:
         self.progress.pack_propagate(False)
         
         # Variables
-        self.seconds = 5
+        self.seconds = 150
         self.progress_width = 0
         self.total_width = 600
         
